@@ -1,11 +1,11 @@
 # Introduction to Git
 
-_Use Git version control to work on a game using command line (CLI) and VS Code._
+_Use Git version control to work on a game using command line (CLI) and VS Code, and build skills useful for Git certification prep._
 
 ## Welcome
 
-- **Who is this for**: Beginner developers who want to learn Git version control
-- **What you'll learn**: Fundamental Git concepts including commits, branches, history, and collaboration basics
+- **Who is this for**: Beginner developers who want to learn Git version control for practical use and certification goals
+- **What you'll learn**: Fundamental Git concepts including commits, branches, history, and collaboration basics aligned with common certification topics
 - **What you'll build**: You'll create a Git repository, add a sample code, then develop some simple features.
 - **Prerequisites**:
 

@@ -1,6 +1,6 @@
 ## Step 1: Introduction to Git Version Control
 
-You've been working on a project and realized organizing backups has become difficult. And, since everyone shares updates differently, collaborating with them is very confusing.
+You've been working on a project and realized organizing backups has become difficult. And, since everyone shares updates differently, collaborating with them is very confusing. You also want to strengthen your Git fundamentals for certification goals.
 
 After some quick searching, you learned about [Git](https://git-scm.com/). Supposedly, it makes keeping track of changes and collaborating with others easy. It removes the confusion of older methods like file naming conventions, share drives, and emailed copies of files.
 
